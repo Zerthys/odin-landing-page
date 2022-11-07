@@ -38,7 +38,7 @@ body {
     display: flex;
     flex-direction: column;
     gap: 100px;
-    margin-right: -1100px;
+    margin-right: -1000px;
 }
 
 .text {
@@ -80,6 +80,8 @@ body {
 }
 
 .right > .image {
+    display: flex;
     margin-bottom: -18px;
     margin-left: -75px;
+    flex-shrink: 2;
 }
