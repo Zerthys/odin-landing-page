@@ -98,18 +98,34 @@ body {
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    gap: 50px;
+    padding-top: 40px;
+}
+
+.sct-02-text {
+    font-weight: bolder;
+    font-size: 24px;
+    color: #1F2937;
 }
 
 figure {
     display: flex;
     flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
 }
 
 figure > div {
     display: flex;
     flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 5px;
 }
 
 figure > div > img {
-    border: 2px solid #3882F6;
+    height: 150px;
+    width: 150px;
+    border: 3px solid #3882F6;
+    border-radius: 10px;
 }
