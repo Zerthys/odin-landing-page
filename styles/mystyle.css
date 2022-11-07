@@ -81,7 +81,7 @@ body {
 
 .right > .image {
     display: flex;
-    margin-bottom: -51px;
-    margin-left: -50px;
+    margin-bottom: -2px;
+    margin-left: -100px;
     flex-shrink: 2;
 }
