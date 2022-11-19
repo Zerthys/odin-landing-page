@@ -142,20 +142,20 @@ figure > div > img {
     display: flex;
     justify-content: center;
     align-items: center;
-    padding-top: 115px;
-    padding-bottom: 85px;
+    padding-top: 110px;
+    padding-bottom: 90px;
 }
 
 .sct-03-text {
     display: flex;
     flex-direction: column;
-    width: 29%;
+    width: 25%;
 }
 
 .sct-03-text > h3 {
     font-weight: normal;
     font-style: italic;
-    font-size: 31px;
+    font-size: 28px;
     color: #3b4042;
 }
 
@@ -163,4 +163,12 @@ figure > div > img {
     align-self: flex-end;
     font-weight: bold;
     font-size: 23px;
+}
+
+.sct-04 {
+    display: flex;
+}
+
+.sct-04-box {
+
 }
