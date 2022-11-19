@@ -167,8 +167,27 @@ figure > div > img {
 
 .sct-04 {
     display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 85px;
+    padding-bottom: 85px;
 }
 
 .sct-04-box {
+    background-color: #3882F6;
+    display: flex;
+    border-radius: 8px;
+    justify-content: space-between;
+    align-items: center;
+    gap: 150px;
+    color: #F9FAF8;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    padding-left: 110px;
+    padding-right: 110px;
+}
 
+.sct-04-box-text {
+    display: flex;
+    flex-direction: column;
 }
