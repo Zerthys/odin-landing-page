@@ -195,8 +195,19 @@ figure > div > img {
 .sct-04-box-button > button {
     background-color: #3882F6;
     border: 1px solid #F9FAF8;
-    border-radius: 6px;
+    border-radius: 5px;
     color: #F9FAF8;
     font-weight: bold;
     padding: 4px 25px;
+}
+
+.footer {
+    background-color: #1F2937;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #F9FAF8;
+    font-size: 14px;
+    padding-top: 32px;
+    padding-bottom: 32px;
 }
