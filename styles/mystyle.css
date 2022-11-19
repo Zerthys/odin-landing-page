@@ -179,15 +179,24 @@ figure > div > img {
     border-radius: 8px;
     justify-content: space-between;
     align-items: center;
-    gap: 150px;
+    gap: 135px;
     color: #F9FAF8;
     padding-top: 40px;
     padding-bottom: 40px;
-    padding-left: 110px;
-    padding-right: 110px;
+    padding-left: 100px;
+    padding-right: 100px;
 }
 
 .sct-04-box-text {
     display: flex;
     flex-direction: column;
+}
+
+.sct-04-box-button > button {
+    background-color: #3882F6;
+    border: 1px solid #F9FAF8;
+    border-radius: 6px;
+    color: #F9FAF8;
+    font-weight: bold;
+    padding: 4px 25px;
 }
